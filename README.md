@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <!--Tech stack: start-->
 
-<img src="assets/tech-stack.png">
+<img src="assets/tech_stack.png">
 ---
 <img src="https://skillicons.dev/icons?i=py,cpp,matlab" />
 <!--Tech stack: end-->
