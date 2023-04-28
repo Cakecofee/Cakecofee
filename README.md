@@ -44,23 +44,21 @@ Here are some ideas to get you started:
 <!--Social Links Badges: end-->
 
 <!--About me: start-->
-<img src="img/hi_there.png">
   
   <p>Greetings 👋, my name is Ivan Fernandez, I am a dedicated graduate student pursuing a Master of Science in Mechanical Engineering. My primary goal is to deepen my knowledge of this exciting field through a combination of education, industry experience, and research projects.<p>
 
 <!--About me: end-->
 
 <!--Tech stack: start-->
-
-<img src="img/tech_stack.png">
-
-<img src="https://skillicons.dev/icons?i=py,cpp,matlab" />
-
+ <br>
  
-  
-  
+## TECH STACK  tech
+<img src="img/tech_stack.png">
+---
+<img src="https://skillicons.dev/icons?i=py,cpp,matlab" />
 <!--Tech stack: end-->
 
+  ---
 <!--Statistics: start-->
 
 <img src="img/statistics.png">
