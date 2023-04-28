@@ -81,17 +81,22 @@ Here are some ideas to get you started:
 
 ---
 
-### Eucation 📚 : 
+### Education 📚 : 
 
 <!-- CURRENT:START -->
 <ul>
 
 
 
-<li>  <strong>California State University, FullertonCalifornia State University, Fullerton </strong></li>
-Master of Science - M.Sc, Mechanical EngineeringMaster of Science - M.Sc, Mechanical Engineering
-2021 - 20232021 - 2023
+<li>  <strong>California State University, Fullerton </strong></li>
+Master of Science - M.Sc, Mechanical Engineering 2021 - 2023
 Relevant Coursework: In progress.
+
+<li>  <strong>UC San Diego </strong> </li>
+Bachelor of Science - B.Sc, Aerospace Structural Engineering
+2018 - 2021
+ABET Accredited. 
+Relevant Coursework: Finite Element Analysis (FEA) I & II, MATLAB Programming, Vibrations, Computer-Aided Design (CAD), Solid Mechanics I & II, Fluid Mechanics, Nondestructive Testing, Statistics: Probability & Reliability, Structural Analysis I & II, Statics, Dynamics, Materials Science, Design of Composite Structures, Renewable Energy: Solar & Wind, Aerospace Structural Mechanics I & II, Aerospace Structural Design I & II, Aerospace Structures Repair.
 
 </ul>
 
