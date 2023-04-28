@@ -85,21 +85,13 @@ Here are some ideas to get you started:
 
 <!-- CURRENT:START -->
 <ul>
-<li><span><span aria-hidden="true"><strong>California State University</strong>,<strong> Fullerton</strong></span></span>
-<ul></ul>
-</li>
-<li style="list-style-type: none;"><span><span aria-hidden="true">Master of Science - M.Sc, Mechanical Engineering</span><span>Master of Science - M.Sc, Mechanical Engineering&nbsp;</span></span><span><span aria-hidden="true">2021 - 2023</span></span></li>
-<li style="list-style-type: none;"><span style="text-decoration: underline;">Relevant Coursework:</span> In progress.</li>
 
-<div class="display-flex flex-row justify-space-between">
-<div class="display-flex flex-wrap align-items-center full-height"><strong><span class="mr1 hoverable-link-text t-bold"><span aria-hidden="true">UC San Diego</span><span class="visually-hidden">UC San Diego</span></span></strong></div>
-<span class="t-14 t-normal"><span aria-hidden="true">Bachelor of Science - B.Sc, Aerospace Structural Engineering&nbsp;</span></span><span class="t-14 t-normal t-black--light"><span class="visually-hidden">2018 - 2021</span></span></div>
-<div class="pvs-list__outer-container">
-<ul class="pvs-list ">
-<li class=" pvs-list__item--one-column">ABET Accredited.</li>
-</ul>
-</div>
-<span aria-hidden="true"><span style="text-decoration: underline;">Relevant Coursework:</span> Finite Element Analysis (FEA) I &amp; II, MATLAB Programming, Vibrations, Computer-Aided Design (CAD), Solid Mechanics I &amp; II, Fluid Mechanics, Nondestructive Testing, Statistics: Probability &amp; Reliability, Structural Analysis I &amp; II, Statics, Dynamics, Materials Science, Design of Composite Structures, Renewable Energy: Solar &amp; Wind, Aerospace Structural Mechanics I &amp; II, Aerospace Structural Design I &amp; II, Aerospace Structures Repair.</span>
+
+
+<li>  <strong>California State University, FullertonCalifornia State University, Fullerton </strong></li>
+Master of Science - M.Sc, Mechanical EngineeringMaster of Science - M.Sc, Mechanical Engineering
+2021 - 20232021 - 2023
+Relevant Coursework: In progress.
 
 </ul>
 
