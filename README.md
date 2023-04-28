@@ -46,7 +46,9 @@ Here are some ideas to get you started:
 <!--About me: start-->
 <img src="img/hi_there.png">
 
-<p>My name is Muhammad Faizan. A passionate developer from India. My main areas of interest are web and mobile development. Right now, I'm learning Flutter. Aside from this, I also do graphic design. In my spare time, I enjoy playing chess and reading.</p>
+<p>My name is Ivan Fernandez. A passionate developer from India. My main areas of interest are web and mobile development. Right now, I'm learning Flutter. Aside from this, I also do graphic design. In my spare time, I enjoy playing chess and reading.</p>
+  
+  <p>Greetings, my name is Ivan, I am a dedicated graduate student pursuing a Master of Science in Mechanical Engineering. My primary goal is to deepen my knowledge of this exciting field through a combination of education, industry experience, and research projects.<p>
 
 <!--About me: end-->
 
