@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 
 <img src="img/tech_stack.png">
 
-<img src="https://skillicons.dev/icons?i=java,dart,python,kotlin,bash,md,mysql,gradle,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=py,cpp,matlab" />
 
- [My Skills](https://skillicons.dev/icons?i=py,cpp,matlab)
+ 
   
   
 <!--Tech stack: end-->
