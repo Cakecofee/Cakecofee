@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 <li>  <strong>California State University, Fullerton </strong></li>
 Master of Science - M.Sc, Mechanical Engineering 2021 - 2023
-Relevant Coursework: In progress.
+<span></span>Relevant Coursework: In progress.
 
 <li>  <strong>UC San Diego </strong> </li>
 Bachelor of Science - B.Sc, Aerospace Structural Engineering
