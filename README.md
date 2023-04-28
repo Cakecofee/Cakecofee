@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 
 </div>
 
+---
 
 ### Languages 🌐
 
@@ -90,7 +91,7 @@ Here are some ideas to get you started:
 
 <li>  <strong>California State University, Fullerton </strong></li>
 Master of Science - M.Sc, Mechanical Engineering 2021 - 2023
-<span> Relevant Coursework: In progress. </span>
+<div> Relevant Coursework: In progress. </div>
 
 <li>  <strong>UC San Diego (ABET Accredited) </strong> </li>
 Bachelor of Science - B.Sc, Aerospace Structural Engineering
