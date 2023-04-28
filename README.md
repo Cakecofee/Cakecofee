@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=java,dart,python,kotlin,bash,md,mysql,gradle,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=10" />
 
-  [![My Skills](https://skillicons.dev/icons?i=py,cpp,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,cpp,matlab)]
   
   
 <!--Tech stack: end-->
