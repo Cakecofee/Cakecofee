@@ -69,10 +69,19 @@ Here are some ideas to get you started:
 
 <!--More Details: start-->
 
-
 </div>
 
-### Currently Learning : 
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | Native or bilingual                                                       |
+| Spanish       | Native or bilingual                                                                    
+
+---
+
+### Currently Learning 📚 : 
 
 <!-- CURRENT:START -->
 
