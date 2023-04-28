@@ -50,10 +50,8 @@ Here are some ideas to get you started:
 <!--About me: end-->
 
 <!--Tech stack: start-->
- <br>
- 
-## TECH STACK  tech
-<img src="img/tech_stack.png">
+
+<img src="assets/tech-stack.png">
 ---
 <img src="https://skillicons.dev/icons?i=py,cpp,matlab" />
 <!--Tech stack: end-->
