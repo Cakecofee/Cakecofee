@@ -72,13 +72,13 @@ Here are some ideas to get you started:
 
 </div>
 
-### Currently Learning
+### Currently Learning : 
 
 <!-- CURRENT:START -->
 
 <!-- CURRENT:END -->
 
-### Publications :
+### My Publications :
 
 <!-- TOP-FIVE:START -->
 
