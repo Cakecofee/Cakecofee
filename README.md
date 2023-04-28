@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/mralpha786">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/mralpha786">
+<a href="https://www.linkedin.com/in/ivanfernandez760/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 <a href="https://lichess.org/@/anon007">
@@ -45,10 +45,8 @@ Here are some ideas to get you started:
 
 <!--About me: start-->
 <img src="img/hi_there.png">
-
-<p>My name is Ivan Fernandez. A passionate developer from India. My main areas of interest are web and mobile development. Right now, I'm learning Flutter. Aside from this, I also do graphic design. In my spare time, I enjoy playing chess and reading.</p>
   
-  <p>Greetings, my name is Ivan, I am a dedicated graduate student pursuing a Master of Science in Mechanical Engineering. My primary goal is to deepen my knowledge of this exciting field through a combination of education, industry experience, and research projects.<p>
+  <p>Greetings 👋, my name is Ivan Fernandez, I am a dedicated graduate student pursuing a Master of Science in Mechanical Engineering. My primary goal is to deepen my knowledge of this exciting field through a combination of education, industry experience, and research projects.<p>
 
 <!--About me: end-->
 
@@ -56,7 +54,7 @@ Here are some ideas to get you started:
 
 <img src="img/tech_stack.png">
 
-<img src="https://skillicons.dev/icons?i=java,dart,python,kotlin,bash,md,mysql,gradle,flutter,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,dart,python,kotlin,bash,md,mysql,gradle,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=10" />
 
 <!--Tech stack: end-->
 
