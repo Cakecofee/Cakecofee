@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Cakecofee/Cakecofee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,6 +56,11 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=java,dart,python,kotlin,bash,md,mysql,gradle,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=10" />
 
+  <img src="assets/assets/c--logo-icon-0.png">
+  <img src="assets/assets/matlab.png">
+  <img src="assets/assets/python.png">
+  
+  
 <!--Tech stack: end-->
 
 <!--Statistics: start-->
