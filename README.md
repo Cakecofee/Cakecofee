@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="assets/ivan fernandez.gif">
-</div>
+<img src="assets/Ivan fernandez.gif">
+
 ---
 
 <!--Header: end-->
