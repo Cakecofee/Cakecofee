@@ -1,6 +1,6 @@
 
 <!--
-**Cakecofee/Cakecofee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ivan-Jesus-Fernandez/Ivan-Jesus-Fernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div id="badges">
 
-<a href="https://github.com/mralpha786">
+<a href="https://github.com/Ivan-Jesus-Fernandez">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/ivanfernandez760/">
@@ -96,6 +96,7 @@ Master of Science - M.Sc, Mechanical Engineering 2021 - 2023
 <li>  <strong>UC San Diego (ABET Accredited) </strong> </li>
 Bachelor of Science - B.Sc, Aerospace Structural Engineering
 2018 - 2021
+  <div> </div>
 <div>
 Relevant Coursework: Finite Element Analysis (FEA) I & II, MATLAB Programming, Vibrations, Computer-Aided Design (CAD), Solid Mechanics I & II, Fluid Mechanics, Nondestructive Testing, Statistics: Probability & Reliability, Structural Analysis I & II, Statics, Dynamics, Materials Science, Design of Composite Structures, Renewable Energy: Solar & Wind, Aerospace Structural Mechanics I & II, Aerospace Structural Design I & II, Aerospace Structures Repair. </div>
 
@@ -109,6 +110,20 @@ Relevant Coursework: Finite Element Analysis (FEA) I & II, MATLAB Programming, V
 
 <!-- TOP-FIVE:START -->
 
+<ul>
+<li> <strong> SE143B Aerospace Structural Design IISE143B Aerospace Structural Design II
+ </strong> </li>
+Apr 2021 - Jun 2021
+  <div> <u>Goal <u> :  The goal of this aerospace structural engineering project is to analyze material constraints and costs, determine risks associated with proposed designs, and fabricate the most cost-efficient and safest composite space component– one boom of a solar sail. I also designed the winder mechanism that would be utilized for deployment and testing purposes. Oral presentation and multidisciplinary design optimization. Aerospace computer-aided design and analysis tools. Use of computer resources such as Abaqus (FEA), MATLAB programming and Solidworks (CAD). </div>
+ - Link to the project ==>(https://drive.google.com/file/d/1A3IjvfKVOPqHnF6wEejXWqrSUU-QBQAl/view) 
+
+   
+  <li> <strong> SE143A Aerospace Structural Design ISE143A Aerospace Structural Design I </strong> </li>
+Jan 2021 - Mar 2021
+  <div> Goal :  The goal of this aerospace structural engineering project is to perform theoretical and cost analyses in order to characterize the behavior of different solar sail boom designs. Three designs including CTM, TRAC, and Double-TRAC were investigated. Design 3, that is the Double TRAC, was down-selected after considering cost, feasibility, theoretical analyses, and margins of safety. Oral presentation and multidisciplinary design optimization. Aerospace computer-aided design and analysis tools. Use of computer resources such as Abaqus (FEA), MATLAB programming and Solidworks (CAD). </div>
+- Link to the project ==>(https://drive.google.com/file/d/1u52KoOvXfJS3_RzBqWo7iQAn6jB2moVX/view) 
+    
+</ul>
 <!-- TOP-FIVE:END -->
 
 <!--More Details: end-->
@@ -118,4 +133,5 @@ Relevant Coursework: Finite Element Analysis (FEA) I & II, MATLAB Programming, V
 
 ---
 
+ 
 </div>
